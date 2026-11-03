@@ -21,7 +21,9 @@
       },
       "5": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Rabu",
@@ -279,11 +281,15 @@
       },
       "9": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "10": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "11": {
         "day": "Kamis",
@@ -563,7 +569,9 @@
       },
       "16": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "17": {
         "day": "Senin",
@@ -653,7 +661,9 @@
       },
       "6": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "7": {
         "day": "Senin",
@@ -933,7 +943,9 @@
       },
       "14": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Minggu",
@@ -1482,7 +1494,8 @@
       "25": {
         "day": "Sabtu",
         "events": [
-          "Hari Raya Natal"
+          "Hari Raya Natal",
+          "Isra Mi'raj Nabi Muhammad SAW"
         ]
       },
       "26": {
@@ -1745,11 +1758,15 @@
       },
       "26": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "27": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "28": {
         "day": "Senin",
@@ -2035,7 +2052,9 @@
       },
       "5": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "6": {
         "day": "Sabtu",
@@ -2115,7 +2134,9 @@
       },
       "25": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "26": {
         "day": "Jumat",
@@ -2405,7 +2426,9 @@
       },
       "3": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Jumat",
@@ -2951,7 +2974,9 @@
       },
       "14": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Jumat",
@@ -3212,12 +3237,15 @@
       "14": {
         "day": "Rabu",
         "events": [
-          "Hari Valentine"
+          "Hari Valentine",
+          "Hari Raya Idul Fitri (1 Syawal)"
         ]
       },
       "15": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "16": {
         "day": "Jumat",
@@ -3497,7 +3525,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -3583,7 +3613,9 @@
       },
       "14": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "15": {
         "day": "Selasa",
@@ -3875,7 +3907,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -4423,7 +4457,9 @@
       },
       "4": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "5": {
         "day": "Rabu",
@@ -4683,11 +4719,15 @@
       },
       "4": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Rabu",
@@ -4963,7 +5003,9 @@
       },
       "13": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "14": {
         "day": "Minggu",
@@ -5055,7 +5097,9 @@
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "5": {
         "day": "Minggu",
@@ -5343,7 +5387,9 @@
       },
       "13": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Minggu",
@@ -5889,7 +5935,9 @@
       },
       "23": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "24": {
         "day": "Minggu",
@@ -6149,11 +6197,15 @@
       },
       "24": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "25": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "26": {
         "day": "Minggu",
@@ -6431,7 +6483,9 @@
       },
       "2": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "3": {
         "day": "Kamis",
@@ -6517,7 +6571,9 @@
       },
       "23": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "24": {
         "day": "Kamis",
@@ -6811,7 +6867,9 @@
       },
       "2": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Kamis",
@@ -7361,7 +7419,9 @@
       },
       "13": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Jumat",
@@ -7621,11 +7681,15 @@
       },
       "14": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "15": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "16": {
         "day": "Jumat",
@@ -7900,7 +7964,8 @@
       "22": {
         "day": "Senin",
         "events": [
-          "Hari Air Sedunia"
+          "Hari Air Sedunia",
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
         ]
       },
       "23": {
@@ -7983,7 +8048,9 @@
       },
       "11": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "12": {
         "day": "Senin",
@@ -8277,7 +8344,9 @@
       },
       "20": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Senin",
@@ -8827,7 +8896,9 @@
     "11": {
       "1": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "2": {
         "day": "Selasa",
@@ -9093,11 +9164,15 @@
       },
       "3": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "4": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "5": {
         "day": "Rabu",
@@ -9371,7 +9446,9 @@
       },
       "12": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "13": {
         "day": "Minggu",
@@ -9455,7 +9532,9 @@
     "4": {
       "1": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "2": {
         "day": "Sabtu",
@@ -9749,7 +9828,9 @@
       },
       "10": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "11": {
         "day": "Sabtu",
@@ -10291,7 +10372,9 @@
       },
       "21": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "22": {
         "day": "Sabtu",
@@ -10553,11 +10636,15 @@
       },
       "23": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "24": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "25": {
         "day": "Minggu",
@@ -10839,7 +10926,9 @@
     "3": {
       "1": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "2": {
         "day": "Kamis",
@@ -10924,7 +11013,8 @@
       "22": {
         "day": "Rabu",
         "events": [
-          "Hari Air Sedunia"
+          "Hari Air Sedunia",
+          "Tahun Baru Islam (1 Muharram)"
         ]
       },
       "23": {
@@ -11211,7 +11301,9 @@
       },
       "30": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "31": {
         "day": "Rabu",
@@ -11759,7 +11851,9 @@
       },
       "10": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "11": {
         "day": "Rabu",
@@ -12019,11 +12113,15 @@
       },
       "12": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "13": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "14": {
         "day": "Kamis",
@@ -12309,7 +12407,9 @@
       },
       "19": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "20": {
         "day": "Selasa",
@@ -12391,7 +12491,9 @@
       },
       "11": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "12": {
         "day": "Senin",
@@ -12683,7 +12785,9 @@
       },
       "20": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Senin",
@@ -13225,7 +13329,9 @@
       },
       "29": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Minggu",
@@ -13487,11 +13593,15 @@
     "12": {
       "1": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "2": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "3": {
         "day": "Senin",
@@ -13775,7 +13885,9 @@
       },
       "8": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "9": {
         "day": "Sabtu",
@@ -13861,7 +13973,9 @@
       },
       "29": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       }
     },
     "3": {
@@ -14155,7 +14269,9 @@
       },
       "9": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Sabtu",
@@ -14697,7 +14813,9 @@
       },
       "18": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "19": {
         "day": "Jumat",
@@ -14953,11 +15071,15 @@
       },
       "19": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "20": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "21": {
         "day": "Jumat",
@@ -15241,7 +15363,9 @@
       },
       "27": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "28": {
         "day": "Rabu",
@@ -15329,7 +15453,9 @@
       },
       "17": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "18": {
         "day": "Rabu",
@@ -15617,7 +15743,9 @@
       },
       "28": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "29": {
         "day": "Rabu",
@@ -16169,7 +16297,9 @@
       },
       "8": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "9": {
         "day": "Rabu",
@@ -16423,12 +16553,15 @@
       },
       "9": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "10": {
         "day": "Selasa",
         "events": [
-          "Hari Pahlawan"
+          "Hari Pahlawan",
+          "Hari Raya Idul Fitri Hari Ke-2"
         ]
       },
       "11": {
@@ -16709,7 +16842,9 @@
       },
       "16": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "17": {
         "day": "Minggu",
@@ -16795,7 +16930,9 @@
       },
       "6": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "7": {
         "day": "Minggu",
@@ -17083,7 +17220,9 @@
       },
       "17": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Minggu",
@@ -17635,7 +17774,9 @@
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "29": {
         "day": "Minggu",
@@ -17889,11 +18030,15 @@
       },
       "29": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "30": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "31": {
         "day": "Minggu",
@@ -18177,7 +18322,9 @@
       },
       "5": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "6": {
         "day": "Kamis",
@@ -18261,7 +18408,9 @@
       },
       "26": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "27": {
         "day": "Kamis",
@@ -18551,7 +18700,9 @@
       },
       "6": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "7": {
         "day": "Kamis",
@@ -19102,7 +19253,8 @@
       "17": {
         "day": "Rabu",
         "events": [
-          "Hari Kemerdekaan RI"
+          "Hari Kemerdekaan RI",
+          "Isra Mi'raj Nabi Muhammad SAW"
         ]
       },
       "18": {
@@ -19359,11 +19511,15 @@
       },
       "19": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "20": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "21": {
         "day": "Jumat",
@@ -19643,7 +19799,9 @@
       },
       "26": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "27": {
         "day": "Selasa",
@@ -19729,7 +19887,9 @@
       },
       "15": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "16": {
         "day": "Senin",
@@ -20017,7 +20177,9 @@
       },
       "25": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "26": {
         "day": "Senin",
@@ -20573,7 +20735,9 @@
       },
       "6": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "7": {
         "day": "Selasa",
@@ -20827,11 +20991,15 @@
       },
       "7": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "8": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "9": {
         "day": "Selasa",
@@ -21111,7 +21279,9 @@
       },
       "15": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "16": {
         "day": "Minggu",
@@ -21201,7 +21371,9 @@
       },
       "4": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "5": {
         "day": "Sabtu",
@@ -21487,7 +21659,9 @@
       },
       "15": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "16": {
         "day": "Sabtu",
@@ -22039,7 +22213,9 @@
       },
       "26": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "27": {
         "day": "Sabtu",
@@ -22297,11 +22473,15 @@
       },
       "27": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "29": {
         "day": "Minggu",
@@ -22579,7 +22759,9 @@
       },
       "4": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "5": {
         "day": "Kamis",
@@ -22666,7 +22848,8 @@
       "25": {
         "day": "Rabu",
         "events": [
-          "Hari Raya Natal"
+          "Hari Raya Natal",
+          "Tahun Baru Islam (1 Muharram)"
         ]
       },
       "26": {
@@ -22959,7 +23142,9 @@
       },
       "5": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Kamis",
@@ -23507,7 +23692,9 @@
       },
       "15": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "16": {
         "day": "Rabu",
@@ -23765,11 +23952,15 @@
       },
       "16": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "17": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "18": {
         "day": "Kamis",
@@ -24045,7 +24236,9 @@
       },
       "23": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "24": {
         "day": "Senin",
@@ -24131,7 +24324,9 @@
       },
       "14": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "15": {
         "day": "Senin",
@@ -24425,7 +24620,9 @@
       },
       "22": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Senin",
@@ -24979,7 +25176,9 @@
       },
       "5": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Senin",
@@ -25233,11 +25432,15 @@
       },
       "5": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "6": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "7": {
         "day": "Senin",
@@ -25513,7 +25716,9 @@
       },
       "12": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "13": {
         "day": "Jumat",
@@ -25599,7 +25804,9 @@
       },
       "3": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "4": {
         "day": "Jumat",
@@ -25895,7 +26102,9 @@
       },
       "12": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "13": {
         "day": "Sabtu",
@@ -26445,7 +26654,9 @@
       },
       "23": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "24": {
         "day": "Jumat",
@@ -26699,11 +26910,15 @@
       },
       "24": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "25": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "26": {
         "day": "Jumat",
@@ -26983,7 +27198,9 @@
     "11": {
       "1": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "2": {
         "day": "Rabu",
@@ -27065,7 +27282,9 @@
       },
       "21": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "22": {
         "day": "Selasa",
@@ -27361,7 +27580,9 @@
       },
       "31": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       }
     },
     "2": {
@@ -27917,7 +28138,9 @@
       },
       "13": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Rabu",
@@ -28169,11 +28392,15 @@
       },
       "14": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "15": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "16": {
         "day": "Rabu",
@@ -28447,7 +28674,9 @@
       },
       "21": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "22": {
         "day": "Minggu",
@@ -28537,7 +28766,9 @@
       },
       "11": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "12": {
         "day": "Minggu",
@@ -28829,7 +29060,9 @@
       },
       "20": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Minggu",
@@ -29383,7 +29616,9 @@
       },
       "2": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Minggu",
@@ -29641,11 +29876,15 @@
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Senin",
@@ -29919,7 +30158,9 @@
       },
       "11": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "12": {
         "day": "Jumat",
@@ -30001,7 +30242,9 @@
       },
       "31": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       }
     },
     "11": {
@@ -30297,7 +30540,9 @@
       },
       "9": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Kamis",
@@ -30847,7 +31092,9 @@
       },
       "22": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Kamis",
@@ -31107,11 +31354,15 @@
       },
       "24": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "25": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "26": {
         "day": "Jumat",
@@ -31385,7 +31636,9 @@
       },
       "30": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       }
     },
     "10": {
@@ -31471,7 +31724,9 @@
       },
       "21": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "22": {
         "day": "Selasa",
@@ -31759,7 +32014,9 @@
       },
       "29": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Senin",
@@ -32319,7 +32576,9 @@
       },
       "11": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "12": {
         "day": "Selasa",
@@ -32579,11 +32838,15 @@
       },
       "13": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "14": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "15": {
         "day": "Rabu",
@@ -32857,7 +33120,9 @@
       },
       "19": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "20": {
         "day": "Minggu",
@@ -32939,7 +33204,9 @@
       },
       "9": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "10": {
         "day": "Sabtu",
@@ -33227,7 +33494,9 @@
       },
       "18": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "19": {
         "day": "Sabtu",
@@ -33781,7 +34050,9 @@
       },
       "30": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       }
     },
     "5": {
@@ -34047,11 +34318,15 @@
       },
       "2": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "3": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "4": {
         "day": "Minggu",
@@ -34325,7 +34600,9 @@
       },
       "8": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "9": {
         "day": "Kamis",
@@ -34409,7 +34686,9 @@
       },
       "29": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "30": {
         "day": "Kamis",
@@ -34699,7 +34978,9 @@
       },
       "8": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "9": {
         "day": "Kamis",
@@ -35247,7 +35528,9 @@
       },
       "19": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "20": {
         "day": "Rabu",
@@ -35513,11 +35796,15 @@
       },
       "21": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "22": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "23": {
         "day": "Kamis",
@@ -35791,7 +36078,9 @@
       },
       "28": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "29": {
         "day": "Senin",
@@ -35877,7 +36166,9 @@
       },
       "18": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "19": {
         "day": "Senin",
@@ -36165,7 +36456,9 @@
       },
       "27": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "28": {
         "day": "Senin",
@@ -36719,7 +37012,9 @@
       },
       "9": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Senin",
@@ -36981,11 +37276,15 @@
       },
       "10": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "11": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "12": {
         "day": "Senin",
@@ -37258,7 +37557,8 @@
       "17": {
         "day": "Kamis",
         "events": [
-          "Hari Kemerdekaan RI"
+          "Hari Kemerdekaan RI",
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
         ]
       },
       "18": {
@@ -37345,7 +37645,9 @@
       },
       "7": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "8": {
         "day": "Jumat",
@@ -37633,7 +37935,9 @@
       },
       "16": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "17": {
         "day": "Jumat",
@@ -38189,7 +38493,9 @@
       },
       "29": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Sabtu",
@@ -38447,11 +38753,15 @@
       },
       "30": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "31": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       }
     },
     "6": {
@@ -38729,7 +39039,9 @@
       },
       "6": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "7": {
         "day": "Rabu",
@@ -38811,7 +39123,9 @@
       },
       "26": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "27": {
         "day": "Selasa",
@@ -39099,7 +39413,9 @@
       },
       "4": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "5": {
         "day": "Selasa",
@@ -39655,7 +39971,9 @@
       },
       "18": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "19": {
         "day": "Rabu",
@@ -39915,11 +40233,15 @@
       },
       "19": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "20": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "21": {
         "day": "Rabu",
@@ -40195,7 +40517,9 @@
       },
       "26": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "27": {
         "day": "Minggu",
@@ -40277,7 +40601,9 @@
       },
       "15": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "16": {
         "day": "Sabtu",
@@ -40563,7 +40889,9 @@
       },
       "24": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Sabtu",
@@ -41123,7 +41451,9 @@
       },
       "7": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "8": {
         "day": "Minggu",
@@ -41387,11 +41717,15 @@
       },
       "9": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "10": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "11": {
         "day": "Senin",
@@ -41667,7 +42001,9 @@
       },
       "16": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "17": {
         "day": "Jumat",
@@ -41749,7 +42085,9 @@
       },
       "5": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "6": {
         "day": "Kamis",
@@ -42035,7 +42373,9 @@
       },
       "14": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Kamis",
@@ -42589,7 +42929,9 @@
       },
       "24": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Kamis",
@@ -42849,11 +43191,15 @@
       },
       "28": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "29": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "30": {
         "day": "Jumat",
@@ -43135,7 +43481,9 @@
       },
       "5": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "6": {
         "day": "Selasa",
@@ -43219,7 +43567,9 @@
       },
       "26": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "27": {
         "day": "Selasa",
@@ -43503,7 +43853,9 @@
       },
       "3": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Senin",
@@ -44055,7 +44407,9 @@
       },
       "13": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Senin",
@@ -44315,11 +44669,15 @@
       },
       "16": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "17": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "18": {
         "day": "Selasa",
@@ -44605,7 +44963,9 @@
       },
       "24": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Minggu",
@@ -44687,7 +45047,9 @@
       },
       "14": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "15": {
         "day": "Sabtu",
@@ -44973,7 +45335,9 @@
       },
       "22": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Sabtu",
@@ -45527,7 +45891,9 @@
       },
       "2": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Sabtu",
@@ -45783,11 +46149,15 @@
       },
       "5": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "6": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "7": {
         "day": "Sabtu",
@@ -46073,7 +46443,9 @@
       },
       "13": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "14": {
         "day": "Kamis",
@@ -46155,7 +46527,9 @@
       },
       "3": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "4": {
         "day": "Rabu",
@@ -46441,7 +46815,9 @@
       },
       "11": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "12": {
         "day": "Rabu",
@@ -46993,7 +47369,9 @@
       },
       "22": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Rabu",
@@ -47253,11 +47631,15 @@
       },
       "26": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "27": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "28": {
         "day": "Kamis",
@@ -47539,7 +47921,9 @@
       },
       "2": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "3": {
         "day": "Senin",
@@ -47621,7 +48005,9 @@
       },
       "22": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "23": {
         "day": "Minggu",
@@ -47907,7 +48293,9 @@
       },
       "31": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       }
     },
     "9": {
@@ -48465,7 +48853,9 @@
       },
       "12": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "13": {
         "day": "Senin",
@@ -48719,11 +49109,15 @@
       },
       "15": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "16": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "17": {
         "day": "Senin",
@@ -49003,7 +49397,9 @@
       },
       "22": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "23": {
         "day": "Jumat",
@@ -49089,7 +49485,9 @@
       },
       "11": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "12": {
         "day": "Kamis",
@@ -49375,7 +49773,9 @@
       },
       "20": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Kamis",
@@ -49937,7 +50337,9 @@
       },
       "2": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Sabtu",
@@ -50191,11 +50593,15 @@
       },
       "4": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Sabtu",
@@ -50475,7 +50881,9 @@
       },
       "11": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "12": {
         "day": "Rabu",
@@ -50555,7 +50963,9 @@
       },
       "31": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       }
     },
     "6": {
@@ -50845,7 +51255,9 @@
       },
       "9": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Selasa",
@@ -51395,7 +51807,9 @@
       },
       "21": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "22": {
         "day": "Rabu",
@@ -51661,11 +52075,15 @@
       },
       "22": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "23": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "24": {
         "day": "Kamis",
@@ -51937,7 +52355,9 @@
       },
       "30": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       }
     },
     "5": {
@@ -52027,7 +52447,9 @@
       },
       "21": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "22": {
         "day": "Minggu",
@@ -52311,7 +52733,9 @@
       },
       "29": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Sabtu",
@@ -52863,7 +53287,9 @@
       },
       "10": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "11": {
         "day": "Minggu",
@@ -53127,11 +53553,15 @@
       },
       "11": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "12": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "13": {
         "day": "Senin",
@@ -53407,7 +53837,9 @@
       },
       "20": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "21": {
         "day": "Jumat",
@@ -53495,7 +53927,9 @@
       },
       "10": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "11": {
         "day": "Kamis",
@@ -53783,7 +54217,9 @@
       },
       "19": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "20": {
         "day": "Kamis",
@@ -54329,7 +54765,9 @@
       },
       "29": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Kamis",
@@ -54593,13 +55031,17 @@
       },
       "31": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       }
     },
     "2": {
       "1": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "2": {
         "day": "Jumat",
@@ -54875,7 +55317,9 @@
       },
       "9": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "10": {
         "day": "Selasa",
@@ -54961,7 +55405,9 @@
       },
       "30": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       }
     },
     "5": {
@@ -55255,7 +55701,9 @@
       },
       "9": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Selasa",
@@ -55797,7 +56245,9 @@
       },
       "18": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "19": {
         "day": "Senin",
@@ -56061,11 +56511,15 @@
       },
       "20": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "21": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "22": {
         "day": "Selasa",
@@ -56341,7 +56795,9 @@
       },
       "28": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "29": {
         "day": "Sabtu",
@@ -56427,7 +56883,9 @@
       },
       "18": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "19": {
         "day": "Sabtu",
@@ -56721,7 +57179,9 @@
       },
       "27": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "28": {
         "day": "Sabtu",
@@ -57267,7 +57727,9 @@
       },
       "7": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "8": {
         "day": "Sabtu",
@@ -57529,11 +57991,15 @@
       },
       "8": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "9": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "10": {
         "day": "Sabtu",
@@ -57807,7 +58273,9 @@
       },
       "17": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "18": {
         "day": "Rabu",
@@ -57895,7 +58363,9 @@
       },
       "7": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "8": {
         "day": "Rabu",
@@ -58189,7 +58659,9 @@
       },
       "16": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "17": {
         "day": "Rabu",
@@ -58736,7 +59208,8 @@
       "28": {
         "day": "Rabu",
         "events": [
-          "Hari Sumpah Pemuda"
+          "Hari Sumpah Pemuda",
+          "Isra Mi'raj Nabi Muhammad SAW"
         ]
       },
       "29": {
@@ -58995,11 +59468,15 @@
       },
       "29": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "30": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "31": {
         "day": "Kamis",
@@ -59279,7 +59756,9 @@
       },
       "7": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "8": {
         "day": "Senin",
@@ -59361,7 +59840,9 @@
       },
       "27": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "28": {
         "day": "Minggu",
@@ -59656,7 +60137,8 @@
       "5": {
         "day": "Sabtu",
         "events": [
-          "Hari Lingkungan Hidup Sedunia"
+          "Hari Lingkungan Hidup Sedunia",
+          "Maulid Nabi Muhammad SAW"
         ]
       },
       "6": {
@@ -60203,7 +60685,9 @@
       },
       "17": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Senin",
@@ -60459,11 +60943,15 @@
       },
       "18": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "19": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "20": {
         "day": "Senin",
@@ -60745,7 +61233,9 @@
       },
       "24": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Jumat",
@@ -60831,7 +61321,9 @@
       },
       "17": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "18": {
         "day": "Jumat",
@@ -61123,7 +61615,9 @@
       },
       "26": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "27": {
         "day": "Jumat",
@@ -61671,7 +62165,9 @@
       },
       "6": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "7": {
         "day": "Jumat",
@@ -61931,11 +62427,15 @@
       },
       "8": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "9": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "10": {
         "day": "Sabtu",
@@ -62216,7 +62716,8 @@
       "14": {
         "day": "Selasa",
         "events": [
-          "Hari Valentine"
+          "Hari Valentine",
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
         ]
       },
       "15": {
@@ -62299,7 +62800,9 @@
       },
       "5": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "6": {
         "day": "Selasa",
@@ -62591,7 +63094,9 @@
       },
       "14": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Selasa",
@@ -63137,7 +63642,9 @@
       },
       "24": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Selasa",
@@ -63397,11 +63904,15 @@
       },
       "26": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "27": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "28": {
         "day": "Rabu",
@@ -63683,7 +64194,9 @@
       },
       "2": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "3": {
         "day": "Minggu",
@@ -63769,7 +64282,9 @@
       },
       "23": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "24": {
         "day": "Minggu",
@@ -64063,7 +64578,9 @@
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "5": {
         "day": "Minggu",
@@ -64609,7 +65126,9 @@
       },
       "14": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Minggu",
@@ -64865,11 +65384,15 @@
       },
       "15": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "16": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "17": {
         "day": "Minggu",
@@ -65153,7 +65676,9 @@
       },
       "23": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "24": {
         "day": "Jumat",
@@ -65235,7 +65760,9 @@
       },
       "12": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "13": {
         "day": "Kamis",
@@ -65525,7 +66052,9 @@
       },
       "23": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "24": {
         "day": "Kamis",
@@ -66077,7 +66606,9 @@
       },
       "3": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Kamis",
@@ -66331,11 +66862,15 @@
       },
       "4": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Kamis",
@@ -66621,7 +67156,9 @@
       },
       "12": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "13": {
         "day": "Selasa",
@@ -66707,7 +67244,9 @@
       },
       "2": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "3": {
         "day": "Selasa",
@@ -66995,7 +67534,9 @@
       },
       "13": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Selasa",
@@ -67547,7 +68088,9 @@
       },
       "24": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Selasa",
@@ -67795,11 +68338,15 @@
       },
       "24": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "25": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "26": {
         "day": "Senin",
@@ -68088,7 +68635,8 @@
       "1": {
         "day": "Jumat",
         "events": [
-          "Tahun Baru Masehi"
+          "Tahun Baru Masehi",
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
         ]
       },
       "2": {
@@ -68173,7 +68721,9 @@
       },
       "22": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "23": {
         "day": "Sabtu",
@@ -68463,7 +69013,9 @@
     "4": {
       "1": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "2": {
         "day": "Sabtu",
@@ -69013,7 +69565,9 @@
       },
       "12": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "13": {
         "day": "Sabtu",
@@ -69267,11 +69821,15 @@
       },
       "13": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "14": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "15": {
         "day": "Sabtu",
@@ -69547,7 +70105,9 @@
       },
       "20": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "21": {
         "day": "Rabu",
@@ -69641,7 +70201,9 @@
       },
       "10": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "11": {
         "day": "Rabu",
@@ -69927,7 +70489,9 @@
       },
       "21": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "22": {
         "day": "Rabu",
@@ -70485,7 +71049,9 @@
       },
       "2": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Kamis",
@@ -70739,11 +71305,15 @@
       },
       "3": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "4": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "5": {
         "day": "Kamis",
@@ -71015,7 +71585,9 @@
       },
       "9": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "10": {
         "day": "Minggu",
@@ -71103,7 +71675,9 @@
       },
       "30": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "31": {
         "day": "Minggu",
@@ -71395,7 +71969,9 @@
       },
       "10": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "11": {
         "day": "Minggu",
@@ -71951,7 +72527,9 @@
       },
       "22": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Senin",
@@ -72205,11 +72783,15 @@
       },
       "22": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "23": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "24": {
         "day": "Senin",
@@ -72485,7 +73067,9 @@
       },
       "29": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "30": {
         "day": "Jumat",
@@ -72571,7 +73155,9 @@
       },
       "20": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "21": {
         "day": "Jumat",
@@ -72865,7 +73451,9 @@
       },
       "28": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       }
     },
     "3": {
@@ -73419,7 +74007,9 @@
       },
       "11": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "12": {
         "day": "Jumat",
@@ -73677,11 +74267,15 @@
       },
       "12": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "13": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "14": {
         "day": "Sabtu",
@@ -73957,7 +74551,9 @@
       },
       "19": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "20": {
         "day": "Rabu",
@@ -74039,7 +74635,9 @@
       },
       "9": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "10": {
         "day": "Selasa",
@@ -74333,7 +74931,9 @@
       },
       "17": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Selasa",
@@ -74885,7 +75485,9 @@
       },
       "29": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Selasa",
@@ -75143,13 +75745,17 @@
       },
       "31": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       }
     },
     "9": {
       "1": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "2": {
         "day": "Rabu",
@@ -75423,7 +76029,9 @@
       },
       "7": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "8": {
         "day": "Minggu",
@@ -75509,7 +76117,9 @@
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "29": {
         "day": "Minggu",
@@ -75803,7 +76413,9 @@
       },
       "6": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "7": {
         "day": "Minggu",
@@ -76353,7 +76965,9 @@
       },
       "18": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "19": {
         "day": "Sabtu",
@@ -76611,11 +77225,15 @@
       },
       "20": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "21": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "22": {
         "day": "Minggu",
@@ -76887,7 +77505,9 @@
       },
       "27": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "28": {
         "day": "Kamis",
@@ -76977,7 +77597,9 @@
       },
       "17": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "18": {
         "day": "Kamis",
@@ -77269,7 +77891,9 @@
       },
       "26": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "27": {
         "day": "Kamis",
@@ -77825,7 +78449,9 @@
       },
       "8": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "9": {
         "day": "Kamis",
@@ -78077,11 +78703,15 @@
       },
       "9": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "10": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "11": {
         "day": "Kamis",
@@ -78355,7 +78985,9 @@
       },
       "16": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "17": {
         "day": "Senin",
@@ -78443,7 +79075,9 @@
       },
       "6": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "7": {
         "day": "Senin",
@@ -78741,7 +79375,9 @@
       },
       "16": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "17": {
         "day": "Selasa",
@@ -79291,7 +79927,9 @@
       },
       "29": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "30": {
         "day": "Selasa",
@@ -79543,11 +80181,15 @@
       },
       "29": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "30": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "31": {
         "day": "Senin",
@@ -79827,7 +80469,9 @@
       },
       "6": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "7": {
         "day": "Sabtu",
@@ -79907,7 +80551,9 @@
       },
       "26": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "27": {
         "day": "Jumat",
@@ -80209,7 +80855,9 @@
       },
       "5": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Sabtu",
@@ -80759,7 +81407,9 @@
       },
       "17": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Sabtu",
@@ -81015,11 +81665,15 @@
       },
       "18": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "19": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "20": {
         "day": "Sabtu",
@@ -81293,7 +81947,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -81379,7 +82035,9 @@
       },
       "15": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "16": {
         "day": "Rabu",
@@ -81669,7 +82327,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -82231,7 +82891,9 @@
       },
       "7": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "8": {
         "day": "Kamis",
@@ -82487,11 +83149,15 @@
       },
       "8": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "9": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "10": {
         "day": "Kamis",
@@ -82765,7 +83431,9 @@
       },
       "14": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "15": {
         "day": "Senin",
@@ -82847,7 +83515,9 @@
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "5": {
         "day": "Minggu",
@@ -83135,7 +83805,9 @@
       },
       "13": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Minggu",
@@ -83693,7 +84365,9 @@
       },
       "26": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "27": {
         "day": "Senin",
@@ -83953,11 +84627,15 @@
       },
       "27": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "28": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "29": {
         "day": "Senin",
@@ -84237,7 +84915,9 @@
       },
       "4": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "5": {
         "day": "Sabtu",
@@ -84317,7 +84997,9 @@
       },
       "24": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "25": {
         "day": "Jumat",
@@ -84607,7 +85289,9 @@
       },
       "3": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Jumat",
@@ -85159,7 +85843,9 @@
       },
       "15": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "16": {
         "day": "Jumat",
@@ -85425,11 +86111,15 @@
       },
       "17": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "18": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "19": {
         "day": "Sabtu",
@@ -85703,7 +86393,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -85789,7 +86481,9 @@
       },
       "14": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "15": {
         "day": "Rabu",
@@ -86073,7 +86767,9 @@
       },
       "22": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Selasa",
@@ -86627,7 +87323,9 @@
       },
       "3": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Selasa",
@@ -86892,12 +87590,15 @@
       "5": {
         "day": "Senin",
         "events": [
-          "Hari Lingkungan Hidup Sedunia"
+          "Hari Lingkungan Hidup Sedunia",
+          "Hari Raya Idul Fitri (1 Syawal)"
         ]
       },
       "6": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "7": {
         "day": "Rabu",
@@ -87169,7 +87870,9 @@
       },
       "12": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "13": {
         "day": "Minggu",
@@ -87257,7 +87960,9 @@
       },
       "2": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "3": {
         "day": "Minggu",
@@ -87545,7 +88250,9 @@
       },
       "11": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "12": {
         "day": "Minggu",
@@ -88097,7 +88804,9 @@
       },
       "24": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "25": {
         "day": "Minggu",
@@ -88355,11 +89064,15 @@
       },
       "25": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "26": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "27": {
         "day": "Minggu",
@@ -88637,7 +89350,9 @@
     "8": {
       "1": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "2": {
         "day": "Kamis",
@@ -88723,7 +89438,9 @@
       },
       "22": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "23": {
         "day": "Kamis",
@@ -89009,7 +89726,9 @@
       },
       "31": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       }
     },
     "11": {
@@ -89563,7 +90282,9 @@
       },
       "13": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Kamis",
@@ -89823,11 +90544,15 @@
       },
       "14": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "15": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "16": {
         "day": "Kamis",
@@ -90103,7 +90828,9 @@
       },
       "21": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "22": {
         "day": "Senin",
@@ -90189,7 +90916,9 @@
       },
       "11": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "12": {
         "day": "Senin",
@@ -90475,7 +91204,9 @@
       },
       "20": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Senin",
@@ -91035,7 +91766,9 @@
       },
       "3": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Selasa",
@@ -91295,11 +92028,15 @@
       },
       "4": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Selasa",
@@ -91575,7 +92312,9 @@
       },
       "11": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "12": {
         "day": "Sabtu",
@@ -91655,7 +92394,9 @@
       },
       "31": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       }
     },
     "8": {
@@ -91943,7 +92684,9 @@
       },
       "9": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "10": {
         "day": "Jumat",
@@ -92501,7 +93244,9 @@
       },
       "20": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "21": {
         "day": "Sabtu",
@@ -92761,11 +93506,15 @@
       },
       "23": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "24": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "25": {
         "day": "Minggu",
@@ -93041,7 +93790,9 @@
       },
       "29": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "30": {
         "day": "Rabu",
@@ -93127,7 +93878,9 @@
       },
       "20": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "21": {
         "day": "Rabu",
@@ -93413,7 +94166,9 @@
       },
       "28": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "29": {
         "day": "Rabu",
@@ -93967,7 +94722,9 @@
       },
       "8": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "9": {
         "day": "Rabu",
@@ -94227,11 +94984,15 @@
       },
       "12": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "13": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "14": {
         "day": "Kamis",
@@ -94513,7 +95274,9 @@
       },
       "19": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "20": {
         "day": "Senin",
@@ -94599,7 +95362,9 @@
       },
       "10": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "11": {
         "day": "Senin",
@@ -94881,7 +95646,9 @@
       },
       "17": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Minggu",
@@ -95433,7 +96200,9 @@
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "29": {
         "day": "Minggu",
@@ -95695,11 +96464,15 @@
     "4": {
       "1": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "2": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "3": {
         "day": "Senin",
@@ -95985,7 +96758,9 @@
       },
       "9": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "10": {
         "day": "Sabtu",
@@ -96065,7 +96840,9 @@
       },
       "29": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "30": {
         "day": "Jumat",
@@ -96353,7 +97130,9 @@
       },
       "7": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "8": {
         "day": "Jumat",
@@ -96901,7 +97680,9 @@
       },
       "17": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "18": {
         "day": "Kamis",
@@ -97159,12 +97940,15 @@
       },
       "21": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "22": {
         "day": "Kamis",
         "events": [
-          "Hari Air Sedunia"
+          "Hari Air Sedunia",
+          "Hari Raya Idul Fitri Hari Ke-2"
         ]
       },
       "23": {
@@ -97447,7 +98231,9 @@
       },
       "29": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "30": {
         "day": "Rabu",
@@ -97537,7 +98323,9 @@
       },
       "19": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "20": {
         "day": "Rabu",
@@ -97819,7 +98607,9 @@
       },
       "27": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "28": {
         "day": "Selasa",
@@ -98373,7 +99163,9 @@
       },
       "7": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "8": {
         "day": "Selasa",
@@ -98631,11 +99423,15 @@
       },
       "10": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "11": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "12": {
         "day": "Rabu",
@@ -98915,7 +99711,9 @@
       },
       "17": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "18": {
         "day": "Minggu",
@@ -99005,7 +99803,9 @@
       },
       "7": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "8": {
         "day": "Minggu",
@@ -99289,7 +100089,9 @@
       },
       "16": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "17": {
         "day": "Minggu",
@@ -99835,7 +100637,9 @@
       },
       "26": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "27": {
         "day": "Sabtu",
@@ -100097,11 +100901,15 @@
       },
       "27": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       }
     },
     "3": {
@@ -100383,7 +101191,9 @@
       },
       "6": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "7": {
         "day": "Kamis",
@@ -100467,7 +101277,9 @@
       },
       "27": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "28": {
         "day": "Kamis",
@@ -100757,7 +101569,9 @@
       },
       "5": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Kamis",
@@ -101303,7 +102117,9 @@
       },
       "16": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "17": {
         "day": "Kamis",
@@ -101565,11 +102381,15 @@
       },
       "16": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "17": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "18": {
         "day": "Kamis",
@@ -101845,7 +102665,9 @@
       },
       "25": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "26": {
         "day": "Senin",
@@ -101935,7 +102757,9 @@
       },
       "16": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "17": {
         "day": "Senin",
@@ -102223,7 +103047,9 @@
       },
       "25": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "26": {
         "day": "Senin",
@@ -102771,7 +103597,9 @@
       },
       "5": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "6": {
         "day": "Senin",
@@ -103035,11 +103863,15 @@
       },
       "6": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "7": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "8": {
         "day": "Selasa",
@@ -103315,7 +104147,9 @@
       },
       "15": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "16": {
         "day": "Sabtu",
@@ -103403,7 +104237,9 @@
       },
       "5": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "6": {
         "day": "Jumat",
@@ -103691,7 +104527,9 @@
       },
       "14": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "15": {
         "day": "Jumat",
@@ -104241,7 +105079,9 @@
       },
       "25": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "26": {
         "day": "Sabtu",
@@ -104505,11 +105345,15 @@
       },
       "27": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "28": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "29": {
         "day": "Minggu",
@@ -104787,7 +105631,9 @@
       },
       "4": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "5": {
         "day": "Kamis",
@@ -104869,7 +105715,9 @@
       },
       "24": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "25": {
         "day": "Rabu",
@@ -105163,7 +106011,9 @@
       },
       "3": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "4": {
         "day": "Rabu",
@@ -105709,7 +106559,9 @@
       },
       "13": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "14": {
         "day": "Rabu",
@@ -105973,11 +106825,15 @@
       },
       "15": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "16": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "17": {
         "day": "Kamis",
@@ -106253,7 +107109,9 @@
       },
       "24": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "25": {
         "day": "Senin",
@@ -106339,7 +107197,9 @@
       },
       "14": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "15": {
         "day": "Senin",
@@ -106629,7 +107489,9 @@
       },
       "22": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Minggu",
@@ -107175,7 +108037,9 @@
       },
       "2": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Minggu",
@@ -107441,11 +108305,15 @@
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "5": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "6": {
         "day": "Senin",
@@ -107719,7 +108587,9 @@
       },
       "13": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "14": {
         "day": "Jumat",
@@ -107807,7 +108677,9 @@
       },
       "3": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "4": {
         "day": "Jumat",
@@ -108101,7 +108973,9 @@
       },
       "12": {
         "day": "Kamis",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "13": {
         "day": "Jumat",
@@ -108639,7 +109513,9 @@
       },
       "22": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Kamis",
@@ -108901,12 +109777,15 @@
       },
       "24": {
         "day": "Rabu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "25": {
         "day": "Kamis",
         "events": [
-          "Hari Raya Natal"
+          "Hari Raya Natal",
+          "Hari Raya Idul Fitri Hari Ke-2"
         ]
       },
       "26": {
@@ -109191,7 +110070,9 @@
       },
       "3": {
         "day": "Selasa",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "4": {
         "day": "Rabu",
@@ -109273,7 +110154,9 @@
       },
       "23": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "24": {
         "day": "Selasa",
@@ -109566,7 +110449,8 @@
       "1": {
         "day": "Senin",
         "events": [
-          "Hari Lahir Pancasila"
+          "Hari Lahir Pancasila",
+          "Maulid Nabi Muhammad SAW"
         ]
       },
       "2": {
@@ -110111,7 +110995,9 @@
       },
       "12": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "13": {
         "day": "Selasa",
@@ -110367,11 +111253,15 @@
       },
       "13": {
         "day": "Minggu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "14": {
         "day": "Senin",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "15": {
         "day": "Selasa",
@@ -110657,7 +111547,9 @@
       },
       "20": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Adha (10 Dzulhijjah)"
+        ]
       },
       "21": {
         "day": "Minggu",
@@ -110739,7 +111631,9 @@
       },
       "12": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Tahun Baru Islam (1 Muharram)"
+        ]
       },
       "13": {
         "day": "Sabtu",
@@ -111035,7 +111929,9 @@
       },
       "22": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Maulid Nabi Muhammad SAW"
+        ]
       },
       "23": {
         "day": "Minggu",
@@ -111583,7 +112479,9 @@
       },
       "2": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Isra Mi'raj Nabi Muhammad SAW"
+        ]
       },
       "3": {
         "day": "Minggu",
@@ -111839,11 +112737,15 @@
       },
       "3": {
         "day": "Jumat",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri (1 Syawal)"
+        ]
       },
       "4": {
         "day": "Sabtu",
-        "events": []
+        "events": [
+          "Hari Raya Idul Fitri Hari Ke-2"
+        ]
       },
       "5": {
         "day": "Minggu",
