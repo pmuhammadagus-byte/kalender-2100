@@ -200,7 +200,8 @@
         dayElement.textContent = day;
 
         // Check for holidays
-        const monthData = calendarData[year][month];
+        const monthKey = String(month);
+        const monthData = calendarData[year] ? calendarData[year][monthKey] : null;
         if (monthData && monthData[day] && monthData[day].events.length > 0) {
           dayElement.classList.add('holiday');
           dayElement.title = monthData[day].events.join(', ');
@@ -218,15 +219,18 @@
 
       // Display events for the month
       let hasEvents = false;
-      for (const day in calendarData[year][month]) {
-        if (calendarData[year][month][day].events.length > 0) {
-          hasEvents = true;
-          const eventItem = document.createElement('div');
-          const eventMonthName = document.getElementById('monthSelect').options[month - 1].textContent;
-          eventItem.innerHTML = `
-            <strong>${day} ${eventMonthName}:</strong> ${calendarData[year][month][day].events.join(', ')}
-          `;
-          eventList.appendChild(eventItem);
+      const monthKey = String(month);
+      if (calendarData[year] && calendarData[year][monthKey]) {
+        for (const day in calendarData[year][monthKey]) {
+          if (calendarData[year][monthKey][day].events.length > 0) {
+            hasEvents = true;
+            const eventItem = document.createElement('div');
+            const eventMonthName = document.getElementById('monthSelect').options[month - 1].textContent;
+            eventItem.innerHTML = `
+              <strong>${day} ${eventMonthName}:</strong> ${calendarData[year][monthKey][day].events.join(', ')}
+            `;
+            eventList.appendChild(eventItem);
+          }
         }
       }
 
