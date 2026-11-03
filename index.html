@@ -83,6 +83,7 @@
       .day { padding: 5px; font-size: 0.8em; }
       .controls { flex-direction: column; gap: 10px; }
     }
+  </style>
 </head>
 <body>
   <header>
@@ -221,8 +222,9 @@
         if (calendarData[year][month][day].events.length > 0) {
           hasEvents = true;
           const eventItem = document.createElement('div');
+          const eventMonthName = document.getElementById('monthSelect').options[month - 1].textContent;
           eventItem.innerHTML = `
-            <strong>${day} ${months[month - 1]}:</strong> ${calendarData[year][month][day].events.join(', ')}
+            <strong>${day} ${eventMonthName}:</strong> ${calendarData[year][month][day].events.join(', ')}
           `;
           eventList.appendChild(eventItem);
         }
