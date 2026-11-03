@@ -76,7 +76,13 @@
       background-color: #f9f9f9;
       border-radius: 4px;
     }
-  </style>
+    @media (max-width: 600px) {
+      body { padding: 10px; }
+      .container { padding: 10px; }
+      .calendar-grid { gap: 5px; }
+      .day { padding: 5px; font-size: 0.8em; }
+      .controls { flex-direction: column; gap: 10px; }
+    }
 </head>
 <body>
   <header>
@@ -120,7 +126,7 @@
 
       // Populate year dropdown
       const currentYear = new Date().getFullYear();
-      for (let year = 2026; year <= 2100; year++) {
+      for (let year = 2027; year <= 2100; year++) {
         const option = document.createElement('option');
         option.value = year;
         option.textContent = year;
