@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📅 Kalender Abadi 2026-2100</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    header {
+      background-color: #4a6fa5;
+      color: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #4a6fa5;
+    }
+    .calendar-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .day {
+      padding: 10px;
+      border-radius: 4px;
+      background-color: #f0f0f0;
+      text-align: center;
+    }
+    .weekday {
+      font-weight: bold;
+      background-color: #e0e0e0;
+    }
+    .holiday {
+      background-color: #ffebee;
+      color: #d32f2f;
+    }
+    .controls {
+      margin: 20px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    select, button {
+      padding: 8px 12px;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+    }
+    button {
+      background-color: #4a6fa5;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #3a5a8f;
+    }
+    .event-list {
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📅 Kalender Abadi 2026-2100</h1>
+    <p>Hari libur nasional Indonesia dan perayaan internasional</p>
+  </header>
+
+  <div class="container">
+    <div class="controls">
+      <div>
+        <select id="yearSelect"></select>
+        <select id="monthSelect"></select>
+      </div>
+      <button id="todayBtn">Hari Ini</button>
+    </div>
+
+    <div class="calendar-grid" id="calendarGrid">
+      <!-- Days will be inserted here by JavaScript -->
+    </div>
+
+    <div class="event-list" id="eventList">
+      <!-- Events will be displayed here -->
+    </div>
+  </div>
+
+  <script>
+    // Load calendar data
+    let calendarData = {};
+    fetch('calendar-2026-2100.json')
+      .then(response => response.json())
+      .then(data => {
+        calendarData = data;
+        initializeCalendar();
+      });
+
+    // Initialize calendar controls
+    function initializeCalendar() {
+      const yearSelect = document.getElementById('yearSelect');
+      const monthSelect = document.getElementById('monthSelect');
+      const todayBtn = document.getElementById('todayBtn');
+
+      // Populate year dropdown
+      const currentYear = new Date().getFullYear();
+      for (let year = 2026; year <= 2100; year++) {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        if (year === currentYear) option.selected = true;
+        yearSelect.appendChild(option);
+      }
+
+      // Populate month dropdown
+      const months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni',
+                      'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+      for (let i = 0; i < 12; i++) {
+        const option = document.createElement('option');
+        option.value = i + 1;
+        option.textContent = months[i];
+        if (i + 1 === new Date().getMonth() + 1) option.selected = true;
+        monthSelect.appendChild(option);
+      }
+
+      // Render calendar for current selection
+      renderCalendar(currentYear, new Date().getMonth() + 1);
+
+      // Event listeners
+      yearSelect.addEventListener('change', () => {
+        renderCalendar(yearSelect.value, monthSelect.value);
+      });
+
+      monthSelect.addEventListener('change', () => {
+        renderCalendar(yearSelect.value, monthSelect.value);
+      });
+
+      todayBtn.addEventListener('click', () => {
+        const today = new Date();
+        yearSelect.value = today.getFullYear();
+        monthSelect.value = today.getMonth() + 1;
+        renderCalendar(today.getFullYear(), today.getMonth() + 1);
+      });
+    }
+
+    // Render calendar for specific year and month
+    function renderCalendar(year, month) {
+      const calendarGrid = document.getElementById('calendarGrid');
+      const eventList = document.getElementById('eventList');
+      calendarGrid.innerHTML = '';
+      eventList.innerHTML = '<h3>Perayaan & Hari Besar</h3>';
+
+      // Add weekday headers
+      const weekdays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
+      weekdays.forEach(day => {
+        const dayElement = document.createElement('div');
+        dayElement.className = 'day weekday';
+        dayElement.textContent = day;
+        calendarGrid.appendChild(dayElement);
+      });
+
+      // Get first day of month and total days
+      const firstDay = new Date(year, month - 1, 1).getDay();
+      const daysInMonth = new Date(year, month, 0).getDate();
+
+      // Add empty cells for days before first day of month
+      for (let i = 0; i < firstDay; i++) {
+        const emptyCell = document.createElement('div');
+        emptyCell.className = 'day';
+        calendarGrid.appendChild(emptyCell);
+      }
+
+      // Add days of month
+      for (let day = 1; day <= daysInMonth; day++) {
+        const dayElement = document.createElement('div');
+        dayElement.className = 'day';
+        dayElement.textContent = day;
+
+        // Check for holidays
+        const monthData = calendarData[year][month];
+        if (monthData && monthData[day] && monthData[day].events.length > 0) {
+          dayElement.classList.add('holiday');
+          dayElement.title = monthData[day].events.join(', ');
+        }
+
+        // Highlight today
+        const today = new Date();
+        if (year === today.getFullYear() && month === today.getMonth() + 1 && day === today.getDate()) {
+          dayElement.style.backgroundColor = '#c8e6c9';
+          dayElement.style.fontWeight = 'bold';
+        }
+
+        calendarGrid.appendChild(dayElement);
+      }
+
+      // Display events for the month
+      let hasEvents = false;
+      for (const day in calendarData[year][month]) {
+        if (calendarData[year][month][day].events.length > 0) {
+          hasEvents = true;
+          const eventItem = document.createElement('div');
+          eventItem.innerHTML = `
+            <strong>${day} ${months[month - 1]}:</strong> ${calendarData[year][month][day].events.join(', ')}
+          `;
+          eventList.appendChild(eventItem);
+        }
+      }
+
+      if (!hasEvents) {
+        eventList.innerHTML += '<p>Tidak ada perayaan atau hari besar pada bulan ini.</p>';
+      }
+    }
+  </script>
+</body>
+</html>
