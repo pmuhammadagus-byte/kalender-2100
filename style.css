@@ -1,0 +1,31 @@
+
+/* === PERBAIKAN KALENDER MOBILE === */
+body, html {
+    overflow-x: hidden !important;
+    max-width: 100vw !important;
+}
+
+/* Targetkan ke container kalender, grid, atau tabel */
+.calendar, .calendar-container, .calendar-grid, .grid, table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important; /* Memaksa lebar kolom sama rata */
+    box-sizing: border-box !important;
+    margin: 0 auto !important;
+}
+
+/* Targetkan ke sel tanggal (td/th/div) */
+.calendar td, .calendar th, .calendar-grid > div, .day, th, td {
+    width: calc(100% / 7) !important; /* Bagi 7 sama rata */
+    max-width: calc(100% / 7) !important;
+    font-size: 12px !important; /* Perkecil font dikit agar muat */
+    padding: 4px 2px !important;
+    text-align: center !important;
+    box-sizing: border-box !important;
+    word-wrap: break-word !important;
+}
+
+/* Sembunyikan scroll horizontal */
+::-webkit-scrollbar {
+    display: none;
+}
