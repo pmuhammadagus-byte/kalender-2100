@@ -10,13 +10,13 @@
       background: #0f172a;
       color: #f8fafc;
       margin: 0;
-      padding: 20px;
+      padding: 10px;
     }
     .container {
       max-width: 800px;
       margin: 0 auto;
       background: #1e293b;
-      padding: 2rem;
+      padding: 10px;
       border-radius: 1rem;
       box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3);
     }
@@ -32,12 +32,12 @@
     }
     .calendar-grid {
       display: grid;
-      grid-template-columns: repeat(7, 1fr);
+      grid-template-columns: repeat(7, minmax(0, 1fr));
       gap: 4px; /* Reduced gap */
       margin-top: 20px;
     }
     .day {
-      aspect-ratio: 1;
+      height: 42px; aspect-ratio: auto;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -46,7 +46,7 @@
       border-radius: 6px; /* Smaller radius */
       cursor: pointer;
       font-weight: 500;
-      font-size: 0.9rem;
+      font-size: 12px;
       transition: all 0.2s ease;
     }
     .day:hover:not(.weekday) {
